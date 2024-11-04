@@ -1,7 +1,7 @@
 title: EcoTechThread
 description: Um site sobre moda sustentável
-baseurl: ""
-url: "https://fleksz1.github.io/EcoTechThread/"
+baseurl: "/docs"
+url: "https://Fleksz1.github.io"
 
 theme: jekyll-theme-primer
 plugins:
