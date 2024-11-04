@@ -1,0 +1,17 @@
+source "https://rubygems.org"
+
+gem 'jekyll', '~> 3.10'
+gem 'jekyll-theme-primer' 
+gem 'faraday-retry'
+gem 'wdm', '>= 0.1.0' if Gem::Platform.local.os == 'mingw'
+
+gem 'logger' 
+gem 'csv'    
+gem 'ostruct'
+gem 'base64' 
+gem 'sassc'
+gem 'bigdecimal'
+gem 'fiddle'
+gem 'github-pages', group: :jekyll_plugins
+gem 'ffi'
+#gem "jekyll-sass-converter"

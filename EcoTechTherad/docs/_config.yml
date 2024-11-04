@@ -1,0 +1,18 @@
+title: EcoTechThread
+description: Um site sobre moda sustentável
+baseurl: ""
+url: "https://fleksz1.github.io/EcoTechThread/"
+
+theme: jekyll-theme-primer
+plugins:
+  - jekyll-feed
+
+# Diretórios de origem e destino para o Jekyll
+source: '.'
+destination: './_site'
+
+# Caminho do CSS
+sass:
+  style: compressed
+
+css: "assets/css/style.css"  # Certifique-se de que esse caminho está correto
